@@ -1,4 +1,4 @@
-# Retail-Inventory-Order-Management-System-Core-Python-
+# Retail-Inventory-Order-Management-System
 Retail Management CLI: Inventory, Orders & Payments
 
 A command-line interface application to manage products, customers, orders, and payments for a retail store.
